@@ -64,6 +64,7 @@ next time when you request your profile page..token is checked ..if correct you 
 
 intro
 
+
 <!-- ASSIGNMENT:- -->
 Write a middleware that logs (console.log) some data everytime any API is hit
 Data to be logged:-the current timestamp(as date time) , the IP of the user and the route being requested).
@@ -75,3 +76,5 @@ time , IP, Route should be printed on each line in terminal( every time an api i
 2010-08-19 14:00:00 , 123.459.898.734 , /createUser
 2010-08-19 14:00:00 , 123.459.898.734 , /basicAPi
 2010-08-19 14:00:00 , 123.459.898.734 , /falanaAPI
+
+
