@@ -7,38 +7,25 @@ const testMe1 = async function (req, res) {
 }
 
 const testMe2 =  async function (req, res) {
-    let Data1 = req.ip
-    let Data2 = await req.path
-    console.log(Data1 , ',' , Data2);
-    
-
+  
     res.send("My Second ever api!")
 }
 
 
 const testMe3 = async function (req, res) {
-    let Data1 = req.ip
-    let Data2 = await req.path
-    console.log(Data1 , ',' , Data2);
 
     res.send("My Third ever api!")
 }
 
 
 const testMe4 = async function (req, res) {
-    let Data1 = req.ip
-    let Data2 = await req.path
-    console.log(Data1 , ',' , Data2);
-
+   
     res.send("My fourth ever api!")
 }
 
 
 const testMe5 = async function (req, res) {
-    let Data1 = req.ip
-    let Data2 = await req.path
-    console.log(Data1 , ',' , Data2);
-
+   
     res.send("My fifth ever api!")
 }
 
