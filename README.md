@@ -1,8 +1,8 @@
 # TOPIC: Authentication
 
 ## Authentication with JWT
-- Token generation
-- Token verification
+- Token generation         
+- Token verification      
 
 *Note:* Remember that authentication means validating the identity of a user. Both token generation and verification together implement authentication. 
 Think of this like getting an ID card the first day of your college and then showing that to a guard seated outside your college's campus gate in future. By showing them this token you are confirming your identity to them. Only a legitimate(valid) student who has taken the admission can own an official ID card.
